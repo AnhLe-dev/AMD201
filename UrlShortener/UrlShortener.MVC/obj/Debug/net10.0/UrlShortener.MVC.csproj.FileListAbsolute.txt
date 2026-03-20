@@ -1,0 +1,606 @@
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\appsettings.Development.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\appsettings.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.staticwebassets.runtime.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.staticwebassets.endpoints.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.exe
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.deps.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.runtimeconfig.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Azure.Core.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Azure.Identity.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Humanizer.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\QRCoder.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.ClientModel.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.CodeDom.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Data.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Services.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Data.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Services.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.csproj.AssemblyReference.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.AssemblyInfoInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.AssemblyInfo.cs
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.csproj.CoreCompileInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.RazorAssemblyInfo.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.RazorAssemblyInfo.cs
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\bundle\UrlShortener.MVC.styles.css
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\projectbundle\UrlShortener.MVC.bundle.scp.css
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qp94gildgh-{0}-iuidn6ckza-iuidn6ckza.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1tuardk3p5-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\owdapdglx4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\daaq0wvb0f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\y4l1w0yeu0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\5qes4l5oty-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ge4lhcz7v4-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uw8r958bwu-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\q1oa3vy96u-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nstvh58h2a-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\aecosj8i56-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4lc8txnvzj-{0}-ub07r2b239-ub07r2b239.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8jwrxeq9pw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\7b608dggk1-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cu680pk7as-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\73mdgn6khz-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\x185yd049h-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\15n8eakpmp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3kk9j62go9-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1c7fkgnh3u-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bc0hu3s3y8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8zdtq4q8p3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tn407qweum-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\f8ifai63n2-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4dlgpmepi1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\i7g4zmvkqm-{0}-06098lyss8-06098lyss8.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uvdh13d174-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cw9wdnfjuc-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\f9ohq2cxh6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qhzi4b9q4h-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\6g64sbr60a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\mdhzx4dxv7-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\n5xdmsjr9g-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\b7ary0jfxm-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t9jnrfnnm7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\i4pnf7spz6-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0iszes66u8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\sb8z99o6fq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\amnktanlpe-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9h2akg0n6y-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\r5tdwsw3gd-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\oiozmupf8m-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ulebihafhy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\z35d6n92mr-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\gdxvkslw7x-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0rq0qhnflk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uf9c2ozvef-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\g1v7jlzcaa-{0}-47otxtyo56-47otxtyo56.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ezmlc0dqbl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3zskd3yj62-{0}-356vix0kms-356vix0kms.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\hlh5mwtdc6-{0}-83jwlth58m-83jwlth58m.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\dbt7anropd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\iibtxphfc7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\75pi2lsd1v-{0}-ag7o75518u-ag7o75518u.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uih6tsiwa4-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cprk43hwuz-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\yxzo6v4kzr-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\5kkx24ty3b-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cmsj13t7iy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3dzynjabwk-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\l2vmcbw6dw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\adwof5egdp-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\lhn8exumlk-{0}-lgzsrea667-lgzsrea667.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ilr05wwmwy-{0}-lgzsrea667-lgzsrea667.gz
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.development.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\swae.build.ex.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShort.5A6104B4.Up2Date
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\refint\UrlShortener.MVC.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.genruntimeconfig.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\ref\UrlShortener.MVC.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\appsettings.Development.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\appsettings.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.staticwebassets.runtime.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.staticwebassets.endpoints.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.exe
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.deps.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.runtimeconfig.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.MVC.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Azure.Core.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Azure.Identity.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Humanizer.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\QRCoder.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.ClientModel.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.CodeDom.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Data.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Services.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Data.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\bin\Debug\net10.0\UrlShortener.Services.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.csproj.AssemblyReference.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.AssemblyInfoInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.AssemblyInfo.cs
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.csproj.CoreCompileInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.RazorAssemblyInfo.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.RazorAssemblyInfo.cs
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\bundle\UrlShortener.MVC.styles.css
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\scopedcss\projectbundle\UrlShortener.MVC.bundle.scp.css
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qp94gildgh-{0}-iuidn6ckza-iuidn6ckza.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1tuardk3p5-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\owdapdglx4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\daaq0wvb0f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\y4l1w0yeu0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\5qes4l5oty-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ge4lhcz7v4-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uw8r958bwu-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\q1oa3vy96u-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\nstvh58h2a-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\aecosj8i56-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4lc8txnvzj-{0}-ub07r2b239-ub07r2b239.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8jwrxeq9pw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\7b608dggk1-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cu680pk7as-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\73mdgn6khz-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\x185yd049h-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\15n8eakpmp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3kk9j62go9-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\1c7fkgnh3u-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\bc0hu3s3y8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\8zdtq4q8p3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\tn407qweum-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\f8ifai63n2-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\4dlgpmepi1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\i7g4zmvkqm-{0}-06098lyss8-06098lyss8.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uvdh13d174-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cw9wdnfjuc-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\f9ohq2cxh6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\qhzi4b9q4h-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\6g64sbr60a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\mdhzx4dxv7-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\n5xdmsjr9g-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\b7ary0jfxm-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\t9jnrfnnm7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\i4pnf7spz6-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0iszes66u8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\sb8z99o6fq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\amnktanlpe-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\9h2akg0n6y-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\r5tdwsw3gd-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\oiozmupf8m-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ulebihafhy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\z35d6n92mr-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\gdxvkslw7x-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\0rq0qhnflk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uf9c2ozvef-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\g1v7jlzcaa-{0}-47otxtyo56-47otxtyo56.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ezmlc0dqbl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3zskd3yj62-{0}-356vix0kms-356vix0kms.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\hlh5mwtdc6-{0}-83jwlth58m-83jwlth58m.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\dbt7anropd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\iibtxphfc7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\75pi2lsd1v-{0}-ag7o75518u-ag7o75518u.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\uih6tsiwa4-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cprk43hwuz-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\yxzo6v4kzr-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\5kkx24ty3b-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\cmsj13t7iy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\3dzynjabwk-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\l2vmcbw6dw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\adwof5egdp-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\lhn8exumlk-{0}-lgzsrea667-lgzsrea667.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\ilr05wwmwy-{0}-lgzsrea667-lgzsrea667.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.development.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\swae.build.ex.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShort.5A6104B4.Up2Date
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\refint\UrlShortener.MVC.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\UrlShortener.MVC.genruntimeconfig.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\ref\UrlShortener.MVC.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\v75j1pcsmt-{0}-77q1m18uho-77q1m18uho.gz
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.MVC\obj\Debug\net10.0\compressed\o16r3687e1-{0}-vhhvtnyp7d-vhhvtnyp7d.gz

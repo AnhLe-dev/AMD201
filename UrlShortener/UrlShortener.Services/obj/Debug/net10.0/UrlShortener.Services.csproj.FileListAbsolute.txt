@@ -1,0 +1,34 @@
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.deps.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Data.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Data.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.csproj.AssemblyReference.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.AssemblyInfoInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.AssemblyInfo.cs
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.csproj.CoreCompileInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShort.A268D145.Up2Date
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\refint\UrlShortener.Services.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\ref\UrlShortener.Services.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.deps.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Services.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Data.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Data.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.csproj.AssemblyReference.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.AssemblyInfoInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.AssemblyInfo.cs
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.csproj.CoreCompileInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShort.A268D145.Up2Date
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\refint\UrlShortener.Services.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\UrlShortener.Services.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Services\obj\Debug\net10.0\ref\UrlShortener.Services.dll

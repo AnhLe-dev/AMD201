@@ -1,0 +1,22 @@
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.deps.json
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.AssemblyInfoInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.AssemblyInfo.cs
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.csproj.CoreCompileInputs.cache
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\refint\UrlShortener.Common.dll
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.pdb
+D:\Thay  CanhHT5\CW\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\ref\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.deps.json
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\bin\Debug\net10.0\UrlShortener.Common.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.AssemblyInfoInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.AssemblyInfo.cs
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.csproj.CoreCompileInputs.cache
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\refint\UrlShortener.Common.dll
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\UrlShortener.Common.pdb
+D:\Đại Học\Kỳ 4 năm 3\Thầy Cảnh\CW - Shortener\UrlShortener\UrlShortener.Common\obj\Debug\net10.0\ref\UrlShortener.Common.dll

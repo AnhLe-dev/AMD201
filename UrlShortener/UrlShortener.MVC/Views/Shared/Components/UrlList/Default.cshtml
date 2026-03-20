@@ -1,0 +1,222 @@
+@model IEnumerable<UrlShortener.MVC.Models.ShortenedUrlVM>
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead class="table-light">
+                <tr>
+                    <th>Short Code</th>
+                    <th>Original URL</th>
+                    <th>Title</th>
+                    <th>Clicks</th>
+                    <th>Status</th>
+                    <th>Created</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <a href="/r/@item.ShortCode" target="_blank" class="text-decoration-none">
+                                <code>@item.ShortCode</code>
+                                <i class="bi bi-box-arrow-up-right small"></i>
+                            </a>
+                        </td>
+
+                        <td class="text-truncate" style="max-width:250px;" title="@item.OriginalUrl">
+                            @item.OriginalUrl
+                        </td>
+
+                        <td>@(item.Title ?? "-")</td>
+
+                        <td>
+                            <span class="badge bg-success">@item.ClickCount</span>
+                        </td>
+
+                        <td>
+                            @if (item.Status == UrlShortener.Common.Enums.UrlStatus.Active)
+                            {
+                                <span class="badge bg-success">Active</span>
+                            }
+                            else if (item.Status == UrlShortener.Common.Enums.UrlStatus.Inactive)
+                            {
+                                <span class="badge bg-secondary">Inactive</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">@item.Status</span>
+                            }
+                        </td>
+
+                        <td>@item.CreatedDate.ToString("MM/dd/yyyy")</td>
+
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group">
+
+                                <!-- Test Link -->
+                                <a href="/r/@item.ShortCode"
+                                       target="_blank"
+                                       class="btn btn-success"
+                                       title="Test Link">
+                                    <i class="bi bi-link-45deg"></i>
+                                </a>
+
+                                <!-- QR Code -->
+                                <button type="button"
+                                        class="btn btn-primary"
+                                        onclick="showQRCode('@item.Id')"
+                                        title="QR Code">
+                                    <i class="bi bi-qr-code"></i>
+                                </button>
+
+                                <!-- Details -->
+                                <a asp-controller="UrlShortener"
+                                       asp-action="Details"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-info"
+                                       title="Details">
+                                    <i class="bi bi-eye"></i>
+                                </a>
+
+                                <!-- Edit -->
+                                <a asp-controller="UrlShortener"
+                                       asp-action="Edit"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-warning"
+                                       title="Edit">
+                                    <i class="bi bi-pencil"></i>
+                                </a>
+
+                                <!-- DELETE (User + Admin đều thấy) -->
+                                <a asp-controller="UrlShortener"
+                                       asp-action="Delete"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-danger"
+                                       title="Delete">
+                                    <i class="bi bi-trash"></i>
+                                </a>
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <i class="bi bi-info-circle"></i>
+        No short URLs found. Create your first one!
+    </div>
+}
+
+
+<!-- QR CODE MODAL -->
+
+<div class="modal fade" id="qrCodeModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title">
+                    <i class="bi bi-qr-code"></i>
+                    QR Code - Direct to Original URL
+                </h5>
+
+                <button type="button"
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal">
+                </button>
+            </div>
+
+            <div class="modal-body text-center">
+
+                <div id="qrCodeContainer" class="mb-3">
+                    <div class="spinner-border text-primary"></div>
+                </div>
+
+                <div class="alert alert-info small mb-2">
+                    <strong>QR Code này dẫn thẳng đến Original URL</strong>
+                </div>
+
+                <p id="qrOriginalUrl" class="text-muted small text-break"></p>
+
+            </div>
+
+            <div class="modal-footer">
+
+                <a id="downloadQRBtn"
+                       href="#"
+                       class="btn btn-primary"
+                       download>
+                    <i class="bi bi-download"></i>
+                    Download QR Code
+                </a>
+
+                <button type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+                    Close
+                </button>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+
+    function showQRCode(urlId)
+    {
+
+        const modal = new bootstrap.Modal(document.getElementById('qrCodeModal'));
+        modal.show();
+
+        document.getElementById('qrCodeContainer').innerHTML =
+            '<div class="spinner-border text-primary"></div>';
+
+        document.getElementById('qrOriginalUrl').textContent = '';
+
+        fetch(`/UrlShortener/GenerateQRCode?id=${urlId}`)
+            .then(response => response.json())
+            .then(data => {
+
+                if (data.success)
+                {
+
+                    document.getElementById('qrCodeContainer').innerHTML =
+                        `<img src="${data.qrCode}" class="img-fluid" style="max-width:300px;" />`;
+
+                    document.getElementById('qrOriginalUrl').innerHTML =
+                        `<strong>Original URL:</strong><br>${data.originalUrl}`;
+
+                    document.getElementById('downloadQRBtn').href = data.qrCode;
+
+                    document.getElementById('downloadQRBtn').download =
+                        `QRCode_OriginalURL_${urlId}.png`;
+                }
+                else
+                {
+                    document.getElementById('qrCodeContainer').innerHTML =
+                        '<div class="alert alert-danger">Failed to generate QR Code</div>';
+                }
+
+            })
+            .catch(() =>
+            {
+                document.getElementById('qrCodeContainer').innerHTML =
+                    '<div class="alert alert-danger">Error generating QR Code</div>';
+            });
+
+    }
+
+</script>
