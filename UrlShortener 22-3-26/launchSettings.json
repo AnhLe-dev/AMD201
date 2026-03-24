@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:8080",
+      "serviceActions": {
+        "web": "StartDebugging"
+      }
+    }
+  }
+}
+
+//{
+//  "profiles": {
+//    "Docker Compose": {
+//      "commandName": "DockerCompose",
+//      "commandVersion": "1.0",
+//      "serviceActions": {
+//        "urlshortener.mvc": "StartDebugging"
+//      }
+//    }
+//  }
+//}

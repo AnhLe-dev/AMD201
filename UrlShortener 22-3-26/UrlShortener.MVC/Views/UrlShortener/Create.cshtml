@@ -1,0 +1,79 @@
+@model UrlShortener.MVC.Models.ShortenedUrlVM
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Create Short URL";
+    var request = HttpContextAccessor.HttpContext?.Request;
+    var baseUrl = $"{request?.Scheme}://{request?.Host}";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">     
+                    <h4 class="mb-0"><i class="bi bi-link-45deg"></i> Create New Short URL</h4>
+                </div>
+                <div class="card-body">
+                    <form id="createLinkForm" asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="OriginalUrl" class="form-label fw-bold"></label>
+                            <input asp-for="OriginalUrl" class="form-control form-control-lg" 
+                                   placeholder="https://example.com/very-long-url" />
+                            <span asp-validation-for="OriginalUrl" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ShortCode" class="form-label fw-bold"></label>
+                            <div class="input-group">
+                                <span class="input-group-text">@baseUrl/r/</span>
+                                <input asp-for="ShortCode" class="form-control" 
+                                       placeholder="custom-alias (leave empty for auto-generate)" />
+                            </div>
+                            <span asp-validation-for="ShortCode" class="text-danger small"></span>
+                            <div class="form-text">Leave blank to auto-generate a random code</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label fw-bold"></label>
+                            <input asp-for="Title" class="form-control" placeholder="My Important Link" />
+                            <span asp-validation-for="Title" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label fw-bold"></label>
+                            <textarea asp-for="Description" class="form-control" rows="3" 
+                                      placeholder="Optional description for this link"></textarea>
+                            <span asp-validation-for="Description" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ExpirationDate" class="form-label fw-bold"></label>
+                            <input asp-for="ExpirationDate" type="datetime-local" class="form-control" />
+                            <span asp-validation-for="ExpirationDate" class="text-danger small"></span>
+                            <div class="form-text">Leave blank for no expiration</div>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="bi bi-check-circle"></i> Create Short URL
+                            </button>
+                            <a asp-action="Index" class="btn btn-secondary">
+                                <i class="bi bi-arrow-left"></i> Back to List
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+<div id="loadingSpinner" class="loading-overlay">
+    <div class="spinner"></div>
+</div>

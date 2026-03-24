@@ -1,0 +1,48 @@
+@using Microsoft.AspNetCore.Identity
+@using UrlShortener.Data.Entities.Identity
+
+@inject SignInManager<UrlShortenerUser> SignInManager
+@inject UserManager<UrlShortenerUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    var currentUser = await UserManager.GetUserAsync(User);
+    var isAdmin = User.IsInRole("Admin");
+    
+    <li class="nav-item">
+        <span class="nav-link text-dark">
+            <i class="bi bi-person-circle"></i> 
+            Hello @(currentUser?.FullName ?? User.Identity?.Name)!
+            @if (isAdmin)
+            {
+                <span class="badge bg-danger">Admin</span>
+            }
+            else
+            {
+                <span class="badge bg-primary">User</span>
+            }
+        </span>
+    </li>
+    <li class="nav-item">
+        <form class="form-inline" asp-controller="Authentication" asp-action="Logout" method="post">
+            <button type="submit" class="nav-link btn btn-link text-dark">
+                <i class="bi bi-box-arrow-right"></i> Logout
+            </button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Authentication" asp-action="Register">
+            <i class="bi bi-person-plus"></i> Register
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Authentication" asp-action="Login">
+            <i class="bi bi-box-arrow-in-right"></i> Login
+        </a>
+    </li>
+}
+</ul>

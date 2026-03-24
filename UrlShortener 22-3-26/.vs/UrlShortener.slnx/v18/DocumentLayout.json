@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|solutionrelative:urlshortener.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.mvc\\wwwroot\\js\\ratelimit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|solutionrelative:urlshortener.mvc\\wwwroot\\js\\ratelimit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.mvc\\wwwroot\\css\\ratelimit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|solutionrelative:urlshortener.mvc\\wwwroot\\css\\ratelimit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFF6F55-EF98-6728-2155-7658F4A97387}|UrlShortener.Services\\UrlShortener.Services.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.services\\implementations\\shortenedurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFF6F55-EF98-6728-2155-7658F4A97387}|UrlShortener.Services\\UrlShortener.Services.csproj|solutionrelative:urlshortener.services\\implementations\\shortenedurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFF6F55-EF98-6728-2155-7658F4A97387}|UrlShortener.Services\\UrlShortener.Services.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.services\\implementations\\urlclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFF6F55-EF98-6728-2155-7658F4A97387}|UrlShortener.Services\\UrlShortener.Services.csproj|solutionrelative:urlshortener.services\\implementations\\urlclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.common\\enums\\urlstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|solutionrelative:urlshortener.common\\enums\\urlstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.common\\dtos\\shortenedurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|solutionrelative:urlshortener.common\\dtos\\shortenedurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.common\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9BDE68-4FBC-D12E-F798-8D767EA5C07F}|UrlShortener.Common\\UrlShortener.Common.csproj|solutionrelative:urlshortener.common\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEF440F0-CF56-1FD5-FE1B-1B0F26F4DE9F}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.mvc\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|solutionrelative:urlshortener.mvc\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.mvc\\viewcomponents\\urllistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02CF2A-B3C0-E9B8-13CF-C4C2BF87E34C}|UrlShortener.MVC\\UrlShortener.MVC.csproj|solutionrelative:urlshortener.mvc\\viewcomponents\\urllistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.data\\entities\\identity\\urlshorteneruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|solutionrelative:urlshortener.data\\entities\\identity\\urlshorteneruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.data\\entities\\identity\\urlshortenerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|solutionrelative:urlshortener.data\\entities\\identity\\urlshortenerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.data\\configurations\\shortenedurlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|solutionrelative:urlshortener.data\\configurations\\shortenedurlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\k\u1EF3 4 n\u0103m 3\\th\u1EA7y c\u1EA3nh\\cw - shortener\\urlshortener 22-3-26\\urlshortener.data\\configurations\\urlclickconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C62EE64-91ED-365E-0D65-409718D45AA5}|UrlShortener.Data\\UrlShortener.Data.csproj|solutionrelative:urlshortener.data\\configurations\\urlclickconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortener.MVC\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\Program.cs",
+              "RelativeToolTip": "UrlShortener.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:06:36.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ratelimit.js",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\wwwroot\\js\\ratelimit.js",
+              "RelativeDocumentMoniker": "UrlShortener.MVC\\wwwroot\\js\\ratelimit.js",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\wwwroot\\js\\ratelimit.js",
+              "RelativeToolTip": "UrlShortener.MVC\\wwwroot\\js\\ratelimit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T05:06:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ratelimit.css",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\wwwroot\\css\\ratelimit.css",
+              "RelativeDocumentMoniker": "UrlShortener.MVC\\wwwroot\\css\\ratelimit.css",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\wwwroot\\css\\ratelimit.css",
+              "RelativeToolTip": "UrlShortener.MVC\\wwwroot\\css\\ratelimit.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-24T05:06:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlStatus.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\Enums\\UrlStatus.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Common\\Enums\\UrlStatus.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\Enums\\UrlStatus.cs",
+              "RelativeToolTip": "UrlShortener.Common\\Enums\\UrlStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:56:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShortenedUrlDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\DTOs\\ShortenedUrlDTO.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Common\\DTOs\\ShortenedUrlDTO.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\DTOs\\ShortenedUrlDTO.cs",
+              "RelativeToolTip": "UrlShortener.Common\\DTOs\\ShortenedUrlDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:56:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\Constants\\AppConstants.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Common\\Constants\\AppConstants.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Common\\Constants\\AppConstants.cs",
+              "RelativeToolTip": "UrlShortener.Common\\Constants\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:55:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortener.API\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\Program.cs",
+              "RelativeToolTip": "UrlShortener.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:55:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShortener.API\\appsettings.json",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\appsettings.json",
+              "RelativeToolTip": "UrlShortener.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T04:55:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UrlShortener.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UrlShortener.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T04:55:16.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlClickService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Services\\Implementations\\UrlClickService.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Services\\Implementations\\UrlClickService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Services\\Implementations\\UrlClickService.cs",
+              "RelativeToolTip": "UrlShortener.Services\\Implementations\\UrlClickService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:51:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortenedUrlService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Services\\Implementations\\ShortenedUrlService.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Services\\Implementations\\ShortenedUrlService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Services\\Implementations\\ShortenedUrlService.cs",
+              "RelativeToolTip": "UrlShortener.Services\\Implementations\\ShortenedUrlService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:50:36.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UrlShortener.MVC\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UrlShortener.MVC\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:55:05.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UrlListViewComponent.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\ViewComponents\\UrlListViewComponent.cs",
+              "RelativeDocumentMoniker": "UrlShortener.MVC\\ViewComponents\\UrlListViewComponent.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.MVC\\ViewComponents\\UrlListViewComponent.cs*",
+              "RelativeToolTip": "UrlShortener.MVC\\ViewComponents\\UrlListViewComponent.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:52:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrlShortenerUser.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Entities\\Identity\\UrlShortenerUser.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Data\\Entities\\Identity\\UrlShortenerUser.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Entities\\Identity\\UrlShortenerUser.cs",
+              "RelativeToolTip": "UrlShortener.Data\\Entities\\Identity\\UrlShortenerUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:41:07.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UrlShortenerRole.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Entities\\Identity\\UrlShortenerRole.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Data\\Entities\\Identity\\UrlShortenerRole.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Entities\\Identity\\UrlShortenerRole.cs",
+              "RelativeToolTip": "UrlShortener.Data\\Entities\\Identity\\UrlShortenerRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:41:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UrlClickConfiguration.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Configurations\\UrlClickConfiguration.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Data\\Configurations\\UrlClickConfiguration.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Configurations\\UrlClickConfiguration.cs",
+              "RelativeToolTip": "UrlShortener.Data\\Configurations\\UrlClickConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:40:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShortenedUrlConfiguration.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\K\u1EF3 4 n\u0103m 3\\Th\u1EA7y C\u1EA3nh\\CW - Shortener\\UrlShortener 22-3-26\\UrlShortener.Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "RelativeToolTip": "UrlShortener.Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:40:39.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

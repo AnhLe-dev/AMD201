@@ -1,0 +1,54 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: UrlShortener.MVC/Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Server=sql2025,1433;Database=UrlShortener;User Id=sa;Password=StrongPassword123;TrustServerCertificate=True;
+      - ConnectionStrings__IdentityConnection=Server=sql2025,1433;Database=UrlShortenerIdentity;User Id=sa;Password=StrongPassword123;TrustServerCertificate=True;
+      - ConnectionStrings__Redis=redis-cache:6379
+    depends_on:
+      sql2025:
+        condition: service_healthy
+      redis-cache:
+        condition: service_started
+    restart: on-failure
+
+  sql2025:
+    container_name: sql2025
+    image: mcr.microsoft.com/mssql/server:2025-latest  
+    environment:
+      SA_PASSWORD: "StrongPassword123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD", "/opt/mssql-tools18/bin/sqlcmd",
+             "-S", "localhost",
+             "-U", "sa",
+             "-P", "StrongPassword123",
+             "-Q", "SELECT 1",
+             "-C"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  redis-cache:
+    image: redis:7.4
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: unless-stopped
+
+volumes:
+  sqlserver-data:
+  redis-data:

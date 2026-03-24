@@ -1,0 +1,202 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Hero Section -->
+<div class="hero-section">
+    <div class="container text-center py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <h1 class="display-3 fw-bold mb-4">
+                    <i class="bi bi-link-45deg text-primary"></i>
+                    Shorten Your URLs
+                </h1>
+                <p class="lead mb-4">
+                    Transform long, unwieldy links into short, shareable URLs in seconds.
+                    Track clicks, manage your links, and share with confidence.
+                </p>
+                
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a asp-controller="UrlShortener" asp-action="Create" class="btn btn-primary btn-lg px-5 py-3 me-2">
+                        <i class="bi bi-plus-circle"></i> Create Short URL
+                    </a>
+                    <a asp-controller="UrlShortener" asp-action="Index" class="btn btn-outline-primary btn-lg px-5 py-3">
+                        <i class="bi bi-list-ul"></i> My Links
+                    </a>
+                }
+                else
+                {
+                    <a asp-controller="Authentication" asp-action="Register" class="btn btn-primary btn-lg px-5 py-3 me-2">
+                        <i class="bi bi-person-plus"></i> Get Started
+                    </a>
+                    <a asp-controller="Authentication" asp-action="Login" class="btn btn-outline-primary btn-lg px-5 py-3">
+                        <i class="bi bi-box-arrow-in-right"></i> Login
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Features Section -->
+<div class="features-section py-5 bg-light">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col">
+                <h2 class="fw-bold mb-3">Why Choose Our URL Shortener?</h2>
+                <p class="text-muted">Powerful features to manage and track your links</p>
+            </div>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-lightning-charge-fill text-primary"></i>
+                        </div>
+                        <h4 class="card-title mb-3">Lightning Fast</h4>
+                        <p class="card-text text-muted">
+                            Create shortened URLs in seconds. Our optimized system ensures
+                            quick generation and instant redirects.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-bar-chart-fill text-success"></i>
+                        </div>
+                        <h4 class="card-title mb-3">Click Analytics</h4>
+                        <p class="card-text text-muted">
+                            Track every click on your links. Get insights into your audience
+                            with detailed analytics and reports.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-pencil-square text-warning"></i>
+                        </div>
+                        <h4 class="card-title mb-3">Custom Aliases</h4>
+                        <p class="card-text text-muted">
+                            Create memorable links with custom slugs. Make your URLs
+                            branded and easy to remember.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-qr-code text-info"></i>
+                        </div>
+                        <h4 class="card-title mb-3">QR Codes</h4>
+                        <p class="card-text text-muted">
+                            Generate QR codes for your shortened URLs. Perfect for
+                            print materials and offline marketing.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-shield-check-fill text-danger"></i>
+                        </div>
+                        <h4 class="card-title mb-3">Secure & Reliable</h4>
+                        <p class="card-text text-muted">
+                            Your data is safe with us. We use industry-standard security
+                            practices to protect your information.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="bi bi-clock-history text-secondary"></i>
+                        </div>
+                        <h4 class="card-title mb-3">Link Management</h4>
+                        <p class="card-text text-muted">
+                            Edit, update, or delete your links anytime. Set expiration
+                            dates and manage link status effortlessly.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- How It Works Section -->
+<div class="how-it-works-section py-5">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col">
+                <h2 class="fw-bold mb-3">How It Works</h2>
+                <p class="text-muted">Get started in three simple steps</p>
+            </div>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="step-card text-center">
+                    <div class="step-number mb-3">1</div>
+                    <h4 class="mb-3">Sign Up</h4>
+                    <p class="text-muted">
+                        Create your free account in seconds. No credit card required.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="step-card text-center">
+                    <div class="step-number mb-3">2</div>
+                    <h4 class="mb-3">Paste & Shorten</h4>
+                    <p class="text-muted">
+                        Paste your long URL and get a shortened version instantly.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="step-card text-center">
+                    <div class="step-number mb-3">3</div>
+                    <h4 class="mb-3">Share & Track</h4>
+                    <p class="text-muted">
+                        Share your link and track its performance in real-time.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CTA Section -->
+@if (User.Identity?.IsAuthenticated != true)
+{
+    <div class="cta-section py-5 bg-primary text-white">
+        <div class="container text-center">
+            <h2 class="fw-bold mb-3">Ready to Get Started?</h2>
+            <p class="lead mb-4">Join thousands of users who trust our URL shortener</p>
+            <a asp-controller="Authentication" asp-action="Register" class="btn btn-light btn-lg px-5 py-3">
+                <i class="bi bi-person-plus"></i> Create Free Account
+            </a>
+        </div>
+    </div>
+}

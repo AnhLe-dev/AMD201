@@ -1,0 +1,162 @@
+name: dockercompose13510592969709114298
+services:
+  redis-cache:
+    image: redis:7.4
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: volume
+        source: redis-data
+        target: /data
+        volume: {}
+  sql2025:
+    container_name: sql2025
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: StrongPassword123
+    healthcheck:
+      test:
+        - CMD
+        - /opt/mssql-tools18/bin/sqlcmd
+        - -S
+        - localhost
+        - -U
+        - sa
+        - -P
+        - StrongPassword123
+        - -Q
+        - SELECT 1
+        - -C
+      timeout: 5s
+      interval: 10s
+      retries: 10
+      start_period: 30s
+    image: mcr.microsoft.com/mssql/server:2025-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: volume
+        source: sqlserver-data
+        target: /var/opt/mssql
+        volume: {}
+  web:
+    build:
+      context: D:\Thay  CanhHT5\CW DM\UrlShortener
+      dockerfile: UrlShortener.MVC/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+        LAUNCHING_FROM_VS: "true"
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: UrlShortener.MVC
+      target: base
+    depends_on:
+      redis-cache:
+        condition: service_started
+        required: true
+      sql2025:
+        condition: service_healthy
+        required: true
+    entrypoint:
+      - dotnet
+      - --roll-forward
+      - Major
+      - /VSTools/DistrolessHelper/DistrolessHelper.dll
+      - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__DefaultConnection: Server=sql2025,1433;Database=UrlShortener;User Id=sa;Password=StrongPassword123;TrustServerCertificate=True;
+      ConnectionStrings__IdentityConnection: Server=sql2025,1433;Database=UrlShortenerIdentity;User Id=sa;Password=StrongPassword123;TrustServerCertificate=True;
+      ConnectionStrings__Redis: redis-cache:6379
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
+    image: web:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net10.0/UrlShortener.MVC.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: on-failure
+    tty: true
+    volumes:
+      - type: bind
+        source: D:\Thay  CanhHT5\CW DM\UrlShortener\UrlShortener.MVC
+        target: /app
+        bind: {}
+      - type: bind
+        source: D:\Thay  CanhHT5\CW DM\UrlShortener
+        target: /src
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\.nuget\packages
+        target: /.nuget/packages
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages
+        target: /.nuget/fallbackpackages
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\AppData\Roaming\ASP.NET\Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\AppData\Roaming\ASP.NET\Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Users\DAI\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net6.0
+        target: /VSTools
+        read_only: true
+        bind: {}
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\extensions\Microsoft\managedprojectsystem\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind: {}
+networks:
+  default:
+    name: dockercompose13510592969709114298_default
+volumes:
+  redis-data:
+    name: dockercompose13510592969709114298_redis-data
+  sqlserver-data:
+    name: dockercompose13510592969709114298_sqlserver-data
